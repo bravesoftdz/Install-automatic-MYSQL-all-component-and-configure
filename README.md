@@ -5,6 +5,7 @@ MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
 
 1. **For what objective is the program **
 **MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT.exe**?? .
+
    The program is used for automatic and very easy install MYSQL database
    and do its configuration automatically so that the user does not have to choose
    any parameter from the menu or need read help . Only must approve a few (3-4) button's  type
@@ -12,19 +13,23 @@ MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
    what can be edit and change by  programmer to adapt it , according to the needs .
 
 **2. The author of this project.**
+   
    The author of this project MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
    is a Polish **radio amateur SP9AUV**. This callsign completely identifies a person 
    in the whole world, as there are no other people in the worldwide of that 
    callsign in Ham Radio.
 
 **3. The terms of the license.**
+   
    The project and the program is completely free without any fees. With the use of the 
    entire project should, however, keep the features of copyright, ie callsign SP9AUV 
    when displaying on the screen. When separate use  of the procedures program 
    behavior callsign  SP9AUV is not necessary.
    
 **4. Objective of the development of this project**
+   
    MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT.
+   
    Initially, to the radio amateurs I provided all the files that are needed for installation
    MYSQL database and its configuration, along with a detailed description of what needs 
    to be run consecutively and how to configure the database. However, the majority of 
@@ -40,7 +45,9 @@ MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
    user. The program operatesin this way ,  that basically need is a couple of mouse clicks and it is
 
 **5. Files  accompanying the project:**
+   
    5.1. In the catalog MYSQL_INSTAL_WITH_SOURCE    are placed following directories and files
+          
           MYSQL_INSTAL and in directories
 			V_5.1 files to install MySQL version 5.1
 			V_5.5 files to install MySQL 5.5
@@ -68,6 +75,7 @@ MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
          **SOURCE**     -  source in a Delphi for program MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
 
 **6. Using external programs to install and configure the database automatically.**
+   
    At this moment this program is used to automatic installation database:
 		Msiexec.exe - basic program for component installation MYSQL, he has options:
 			-i install
@@ -89,7 +97,9 @@ MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
 		- Net.exe - used to run networks to work with MYSQL
 		
 **7. Use the program to automatic and very easy install MYSQL database.**
+   
    After designing MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
+   
    It became clear to me that the program can be used for very easy installation database
    MYSQL also by other than amateur radio users.
    Also, by "Mrs. Zosia from the accounting department what does not know anything 
