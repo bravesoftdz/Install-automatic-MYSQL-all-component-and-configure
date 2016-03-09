@@ -76,7 +76,8 @@ MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
 
 **6. Using external programs to install and configure the database automatically.**
    
-   At this moment this program is used to automatic installation database:
+      At this moment this program is used to automatic installation database:
+		
 		Msiexec.exe - basic program for component installation MYSQL, he has options:
 			-i install
 			-q quite perform operations quietly, ie not-display
