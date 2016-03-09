@@ -99,19 +99,19 @@ MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
 		
 **7. Use the program to automatic and very easy install MYSQL database.**
    
-   After designing MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
+      After designing MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
    
-   It became clear to me that the program can be used for very easy installation database
-   MYSQL also by other than amateur radio users.
-   Also, by "Mrs. Zosia from the accounting department what does not know anything 
-   about science."   The programmer must only edit file setup.ini
-   the specific needs for  another company and another user.
-   In this way there is no need to travel to another company, and the 
-   user group of our finanse applications can be extended to users around the world .
-   The program works in English or Polish, depending on what is a Windows environment.
-   If the parameters in setup.ini not enough, the programmer can make changes
-   in the program MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
-   i.e. in a sources in Delphi .
+      It became clear to me that the program can be used for very easy installation database
+      MYSQL also by other than amateur radio users.
+      Also, by "Mrs. Zosia from the accounting department what does not know anything 
+      about science."   The programmer must only edit file setup.ini
+      the specific needs for  another company and another user.
+      In this way there is no need to travel to another company, and the 
+      user group of our finanse applications can be extended to users around the world .
+      The program works in English or Polish, depending on what is a Windows environment.
+      If the parameters in setup.ini not enough, the programmer can make changes
+      in the program MYSQL_INSTALL_AUTOMATIC_ALL_COMPONENT_AND_CONFIGURE_IT
+      i.e. in a sources in Delphi .
    
 **8. Where can you get the project?**
      
